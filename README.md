@@ -42,9 +42,7 @@ For scatter plots, the pipeline calculates value-per-pixel for both x and y axes
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── report/
 ├── notebooks/
-├── src/
 ├── data/
 ├── results/
 └── docs/
