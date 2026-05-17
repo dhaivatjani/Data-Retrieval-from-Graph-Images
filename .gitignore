@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and OS files
+.vscode/
+.idea/
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+results/generated/
+*.zip
+
+# Large generated datasets from local experiments
+data/generated_full/
+data/**/testImages_full/
+
+# Temporary files
+*.tmp
+*.log
